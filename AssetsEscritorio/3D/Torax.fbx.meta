@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 157a87a862c714690ab6080f3d67a81d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1 Empty
+    100002: A Coronaria der
+    100004: A. Coronaria izq
+    100006: A. Pulmonar
+    100008: Aorta
+    100010: Bazo
+    100012: Columna
+    100014: Corazon
+    100016: Esternon
+    100018: G. Tiroides
+    100020: Parrilla costal der
+    100022: Parrilla costal izq
+    100024: Pulmon der
+    100026: Pulmon izq
+    100028: "Ri\xF1on der"
+    100030: "Ri\xF1on izq"
+    100032: //RootNode
+    100034: Traquea
+    100036: Vena Cava sup
+    100038: Venas pulmonares
+    400000: 1 Empty
+    400002: A Coronaria der
+    400004: A. Coronaria izq
+    400006: A. Pulmonar
+    400008: Aorta
+    400010: Bazo
+    400012: Columna
+    400014: Corazon
+    400016: Esternon
+    400018: G. Tiroides
+    400020: Parrilla costal der
+    400022: Parrilla costal izq
+    400024: Pulmon der
+    400026: Pulmon izq
+    400028: "Ri\xF1on der"
+    400030: "Ri\xF1on izq"
+    400032: //RootNode
+    400034: Traquea
+    400036: Vena Cava sup
+    400038: Venas pulmonares
+    2100000: "Ri\xF1on"
+    2100002: Huesos
+    2100004: Arterias
+    2100006: Traquea
+    2100008: Coronarias
+    2100010: Pulmones
+    2100012: Vena
+    2100014: Bazo
+    2100016: Corazon
+    2100018: Glandula
+    2300000: A Coronaria der
+    2300002: A. Coronaria izq
+    2300004: A. Pulmonar
+    2300006: Aorta
+    2300008: Bazo
+    2300010: Columna
+    2300012: Corazon
+    2300014: Esternon
+    2300016: G. Tiroides
+    2300018: Parrilla costal der
+    2300020: Parrilla costal izq
+    2300022: Pulmon der
+    2300024: Pulmon izq
+    2300026: "Ri\xF1on der"
+    2300028: "Ri\xF1on izq"
+    2300030: Traquea
+    2300032: Vena Cava sup
+    2300034: Venas pulmonares
+    3300000: A Coronaria der
+    3300002: A. Coronaria izq
+    3300004: A. Pulmonar
+    3300006: Aorta
+    3300008: Bazo
+    3300010: Columna
+    3300012: Corazon
+    3300014: Esternon
+    3300016: G. Tiroides
+    3300018: Parrilla costal der
+    3300020: Parrilla costal izq
+    3300022: Pulmon der
+    3300024: Pulmon izq
+    3300026: "Ri\xF1on der"
+    3300028: "Ri\xF1on izq"
+    3300030: Traquea
+    3300032: Vena Cava sup
+    3300034: Venas pulmonares
+    4300000: "Ri\xF1on der"
+    4300002: Columna
+    4300004: Esternon
+    4300006: A. Pulmonar
+    4300008: "Ri\xF1on izq"
+    4300010: Traquea
+    4300012: A. Coronaria izq
+    4300014: Pulmon izq
+    4300016: Venas pulmonares
+    4300018: Parrilla costal der
+    4300020: Bazo
+    4300022: A Coronaria der
+    4300024: Vena Cava sup
+    4300026: Corazon
+    4300028: Aorta
+    4300030: Pulmon der
+    4300032: G. Tiroides
+    4300034: Parrilla costal izq
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

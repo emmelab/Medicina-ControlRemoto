@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: e6520b1448aa64e2fa2d916d1b791123
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: A. Mes Inf
+    100002: A. Mes Sup
+    100004: Aorta
+    100006: As. Renales
+    100008: Bazo
+    100010: Duodeno
+    100012: Higado
+    100014: Pancreas
+    100016: //RootNode
+    100018: Tronco Celiaco
+    100020: V. Cava Inf
+    100022: V. Porta
+    100024: Vias Biliares
+    400000: A. Mes Inf
+    400002: A. Mes Sup
+    400004: Aorta
+    400006: As. Renales
+    400008: Bazo
+    400010: Duodeno
+    400012: Higado
+    400014: Pancreas
+    400016: //RootNode
+    400018: Tronco Celiaco
+    400020: V. Cava Inf
+    400022: V. Porta
+    400024: Vias Biliares
+    2100000: V C I
+    2100002: Higado
+    2100004: Bazo
+    2100006: Material.003
+    2100008: Art Mes inf
+    2100010: Duodeno
+    2100012: Pancreas
+    2300000: A. Mes Inf
+    2300002: A. Mes Sup
+    2300004: Aorta
+    2300006: As. Renales
+    2300008: Bazo
+    2300010: Duodeno
+    2300012: Higado
+    2300014: Pancreas
+    2300016: Tronco Celiaco
+    2300018: V. Cava Inf
+    2300020: V. Porta
+    2300022: Vias Biliares
+    3300000: A. Mes Inf
+    3300002: A. Mes Sup
+    3300004: Aorta
+    3300006: As. Renales
+    3300008: Bazo
+    3300010: Duodeno
+    3300012: Higado
+    3300014: Pancreas
+    3300016: Tronco Celiaco
+    3300018: V. Cava Inf
+    3300020: V. Porta
+    3300022: Vias Biliares
+    4300000: V. Porta
+    4300002: Higado
+    4300004: Bazo
+    4300006: Vias Biliares
+    4300008: A. Mes Sup
+    4300010: Aorta
+    4300012: Duodeno
+    4300014: V. Cava Inf
+    4300016: Tronco Celiaco
+    4300018: Pancreas
+    4300020: As. Renales
+    4300022: A. Mes Inf
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

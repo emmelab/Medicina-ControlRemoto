@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: a1c9c2dafe6494b4d98c9f5973d5a9d0
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 3er Vent
+    100002: 4to Vent
+    100004: Ac Silvio
+    100006: Bulbo
+    100008: Cerebelo
+    100010: Cond Epend
+    100012: Cpo Calloso
+    100014: Lob Frontal der
+    100016: Lob Frontal izq
+    100018: Lob Insula der
+    100020: Lob Insula izq
+    100022: Lob Occipital der
+    100024: Lob Occipital izq
+    100026: Lob Parietal der
+    100028: Lob Parietal izq
+    100030: Lob Temp der
+    100032: Lob Temp izq
+    100034: "Mescenc\xE9falo"
+    100036: "N\xFAcleo Amigdalino"
+    100038: Protuberancia
+    100040: //RootNode
+    100042: Vent Lat der
+    100044: Vent Lat izq
+    400000: 3er Vent
+    400002: 4to Vent
+    400004: Ac Silvio
+    400006: Bulbo
+    400008: Cerebelo
+    400010: Cond Epend
+    400012: Cpo Calloso
+    400014: Lob Frontal der
+    400016: Lob Frontal izq
+    400018: Lob Insula der
+    400020: Lob Insula izq
+    400022: Lob Occipital der
+    400024: Lob Occipital izq
+    400026: Lob Parietal der
+    400028: Lob Parietal izq
+    400030: Lob Temp der
+    400032: Lob Temp izq
+    400034: "Mescenc\xE9falo"
+    400036: "N\xFAcleo Amigdalino"
+    400038: Protuberancia
+    400040: //RootNode
+    400042: Vent Lat der
+    400044: Vent Lat izq
+    2100000: Sist Vent
+    2100002: Parenquima
+    2100004: Tronco del encefalo
+    2300000: 3er Vent
+    2300002: 4to Vent
+    2300004: Ac Silvio
+    2300006: Bulbo
+    2300008: Cerebelo
+    2300010: Cond Epend
+    2300012: Cpo Calloso
+    2300014: Lob Frontal der
+    2300016: Lob Frontal izq
+    2300018: Lob Insula der
+    2300020: Lob Insula izq
+    2300022: Lob Occipital der
+    2300024: Lob Occipital izq
+    2300026: Lob Parietal der
+    2300028: Lob Parietal izq
+    2300030: Lob Temp der
+    2300032: Lob Temp izq
+    2300034: "Mescenc\xE9falo"
+    2300036: "N\xFAcleo Amigdalino"
+    2300038: Protuberancia
+    2300040: Vent Lat der
+    2300042: Vent Lat izq
+    3300000: 3er Vent
+    3300002: 4to Vent
+    3300004: Ac Silvio
+    3300006: Bulbo
+    3300008: Cerebelo
+    3300010: Cond Epend
+    3300012: Cpo Calloso
+    3300014: Lob Frontal der
+    3300016: Lob Frontal izq
+    3300018: Lob Insula der
+    3300020: Lob Insula izq
+    3300022: Lob Occipital der
+    3300024: Lob Occipital izq
+    3300026: Lob Parietal der
+    3300028: Lob Parietal izq
+    3300030: Lob Temp der
+    3300032: Lob Temp izq
+    3300034: "Mescenc\xE9falo"
+    3300036: "N\xFAcleo Amigdalino"
+    3300038: Protuberancia
+    3300040: Vent Lat der
+    3300042: Vent Lat izq
+    4300000: Ac Silvio
+    4300002: Lob Parietal izq
+    4300004: Vent Lat der
+    4300006: 3er Vent
+    4300008: Bulbo
+    4300010: Cerebelo
+    4300012: Protuberancia
+    4300014: Lob Occipital der
+    4300016: Lob Frontal izq
+    4300018: Cond Epend
+    4300020: Lob Occipital izq
+    4300022: Lob Parietal der
+    4300024: Lob Frontal der
+    4300026: Lob Insula izq
+    4300028: Vent Lat izq
+    4300030: Lob Temp izq
+    4300032: Lob Temp der
+    4300034: "Mescenc\xE9falo"
+    4300036: Lob Insula der
+    4300038: Cpo Calloso
+    4300040: "N\xFAcleo Amigdalino"
+    4300042: 4to Vent
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

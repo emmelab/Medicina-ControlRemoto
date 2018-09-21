@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 50cfd275854ad4f6fa0c293ade249c18
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: A. Coronaria Der
+    100002: A. Coronaria Izq
+    100004: A. Pulmonar
+    100006: Aorta Abd
+    100008: Aorta Tor
+    100010: Arbol urinario
+    100012: Bazo
+    100014: Columna
+    100016: Corazon
+    100018: Duodeno
+    100020: Duodeno 1
+    100022: Esternon
+    100024: Glandula tiroides
+    100026: Higado
+    100028: Pancreas
+    100030: Parilla costal der
+    100032: Parrilla costal izq
+    100034: Pulmon der
+    100036: Pulmon izq
+    100038: "Ri\xF1on der"
+    100040: "Ri\xF1on izq"
+    100042: Traquea
+    100044: //RootNode
+    100046: V. Cava inferior
+    100048: V. Cava sup
+    100050: V. Porta
+    100052: V. Pulmonar
+    100054: Vias Biliares
+    400000: A. Coronaria Der
+    400002: A. Coronaria Izq
+    400004: A. Pulmonar
+    400006: Aorta Abd
+    400008: Aorta Tor
+    400010: Arbol urinario
+    400012: Bazo
+    400014: Columna
+    400016: Corazon
+    400018: Duodeno
+    400020: Duodeno 1
+    400022: Esternon
+    400024: Glandula tiroides
+    400026: Higado
+    400028: Pancreas
+    400030: Parilla costal der
+    400032: Parrilla costal izq
+    400034: Pulmon der
+    400036: Pulmon izq
+    400038: "Ri\xF1on der"
+    400040: "Ri\xF1on izq"
+    400042: Traquea
+    400044: //RootNode
+    400046: V. Cava inferior
+    400048: V. Cava sup
+    400050: V. Porta
+    400052: V. Pulmonar
+    400054: Vias Biliares
+    2100000: Pulmones
+    2100002: Huesos
+    2100004: Vena
+    2100006: Traquea
+    2100008: Biliar
+    2100010: "Ri\xF1on"
+    2100012: Corazon
+    2100014: Higado
+    2100016: Arterias
+    2100018: Duodeno
+    2100020: Coronarias
+    2100022: No Name
+    2100024: Bazo
+    2100026: Glandula
+    2100028: Arbol urirario
+    2100030: Pancreas
+    2300000: A. Coronaria Der
+    2300002: A. Coronaria Izq
+    2300004: A. Pulmonar
+    2300006: Aorta Abd
+    2300008: Aorta Tor
+    2300010: Arbol urinario
+    2300012: Bazo
+    2300014: Columna
+    2300016: Corazon
+    2300018: Duodeno
+    2300020: Duodeno 1
+    2300022: Esternon
+    2300024: Glandula tiroides
+    2300026: Higado
+    2300028: Pancreas
+    2300030: Parilla costal der
+    2300032: Parrilla costal izq
+    2300034: Pulmon der
+    2300036: Pulmon izq
+    2300038: "Ri\xF1on der"
+    2300040: "Ri\xF1on izq"
+    2300042: Traquea
+    2300044: V. Cava inferior
+    2300046: V. Cava sup
+    2300048: V. Porta
+    2300050: V. Pulmonar
+    2300052: Vias Biliares
+    3300000: A. Coronaria Der
+    3300002: A. Coronaria Izq
+    3300004: A. Pulmonar
+    3300006: Aorta Abd
+    3300008: Aorta Tor
+    3300010: Arbol urinario
+    3300012: Bazo
+    3300014: Columna
+    3300016: Corazon
+    3300018: Duodeno
+    3300020: Duodeno 1
+    3300022: Esternon
+    3300024: Glandula tiroides
+    3300026: Higado
+    3300028: Pancreas
+    3300030: Parilla costal der
+    3300032: Parrilla costal izq
+    3300034: Pulmon der
+    3300036: Pulmon izq
+    3300038: "Ri\xF1on der"
+    3300040: "Ri\xF1on izq"
+    3300042: Traquea
+    3300044: V. Cava inferior
+    3300046: V. Cava sup
+    3300048: V. Porta
+    3300050: V. Pulmonar
+    3300052: Vias Biliares
+    4300000: Pulmon izq
+    4300002: Parrilla costal izq
+    4300004: V. Cava sup
+    4300006: Pulmon der
+    4300008: Traquea
+    4300010: Vias Biliares
+    4300012: "Ri\xF1on der"
+    4300014: Columna
+    4300016: V. Cava inferior
+    4300018: Corazon
+    4300020: Higado
+    4300022: A. Pulmonar
+    4300024: "Ri\xF1on izq"
+    4300026: Aorta Tor
+    4300028: Aorta Abd
+    4300030: Duodeno 1
+    4300032: A. Coronaria Der
+    4300034: Esternon
+    4300036: Bazo
+    4300038: Glandula tiroides
+    4300040: Parilla costal der
+    4300042: Arbol urinario
+    4300044: V. Pulmonar
+    4300046: V. Porta
+    4300048: Duodeno
+    4300050: Pancreas
+    4300052: A. Coronaria Izq
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

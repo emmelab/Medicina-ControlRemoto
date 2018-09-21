@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 066af32a2409b477da886bdf8114fe7b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1 Empty
+    100002: Cor
+    100004: Cor Conal
+    100006: Cor Da
+    100008: Cor Der
+    100010: Cor der
+    100012: Cor der 1
+    100014: Cor der 2
+    100016: Cor der.001
+    100018: Cor der.002
+    100020: Cor der.003
+    100022: Cor der.004
+    100024: Cor der.005
+    100026: Cor der.006
+    100028: Cor der.007
+    100030: Cor der.008
+    100032: Cor Izq
+    100034: Cor izq
+    100036: Cor izq.001
+    100038: Cor izq.002
+    100040: Cor izq.003
+    100042: Cor izq.004
+    100044: Cor izq.005
+    100046: Cor izq.006
+    100048: Cor izq.007
+    100050: Cor izq.008
+    100052: Cor izq.009
+    100054: Corazon
+    100056: Corazon doble cor dcha
+    100058: Corazon normal
+    100060: Corazon.001
+    100062: Corazon.002
+    100064: Corazon.003
+    100066: Corazon.004
+    100068: Corazon.005
+    100070: Corazon.006
+    100072: Corazon.007
+    100074: Corazon.008
+    100076: Corazon.009
+    100078: Corazon.010
+    100080: //RootNode
+    100082: Empty
+    400000: 1 Empty
+    400002: Cor
+    400004: Cor Conal
+    400006: Cor Da
+    400008: Cor Der
+    400010: Cor der
+    400012: Cor der 1
+    400014: Cor der 2
+    400016: Cor der.001
+    400018: Cor der.002
+    400020: Cor der.003
+    400022: Cor der.004
+    400024: Cor der.005
+    400026: Cor der.006
+    400028: Cor der.007
+    400030: Cor der.008
+    400032: Cor Izq
+    400034: Cor izq
+    400036: Cor izq.001
+    400038: Cor izq.002
+    400040: Cor izq.003
+    400042: Cor izq.004
+    400044: Cor izq.005
+    400046: Cor izq.006
+    400048: Cor izq.007
+    400050: Cor izq.008
+    400052: Cor izq.009
+    400054: Corazon
+    400056: Corazon doble cor dcha
+    400058: Corazon normal
+    400060: Corazon.001
+    400062: Corazon.002
+    400064: Corazon.003
+    400066: Corazon.004
+    400068: Corazon.005
+    400070: Corazon.006
+    400072: Corazon.007
+    400074: Corazon.008
+    400076: Corazon.009
+    400078: Corazon.010
+    400080: //RootNode
+    400082: Empty
+    2100000: Coronarias
+    2100002: Corazon
+    2100004: Corazon.001
+    2100006: Corazon.002
+    2300000: Cor
+    2300002: Cor Conal
+    2300004: Cor Da
+    2300006: Cor Der
+    2300008: Cor der
+    2300010: Cor der 1
+    2300012: Cor der 2
+    2300014: Cor der.001
+    2300016: Cor der.002
+    2300018: Cor der.003
+    2300020: Cor der.004
+    2300022: Cor der.005
+    2300024: Cor der.006
+    2300026: Cor der.007
+    2300028: Cor der.008
+    2300030: Cor Izq
+    2300032: Cor izq
+    2300034: Cor izq.001
+    2300036: Cor izq.002
+    2300038: Cor izq.003
+    2300040: Cor izq.004
+    2300042: Cor izq.005
+    2300044: Cor izq.006
+    2300046: Cor izq.007
+    2300048: Cor izq.008
+    2300050: Cor izq.009
+    2300052: Corazon
+    2300054: Corazon doble cor dcha
+    2300056: Corazon normal
+    2300058: Corazon.001
+    2300060: Corazon.002
+    2300062: Corazon.003
+    2300064: Corazon.004
+    2300066: Corazon.005
+    2300068: Corazon.006
+    2300070: Corazon.007
+    2300072: Corazon.008
+    2300074: Corazon.009
+    2300076: Corazon.010
+    3300000: Cor
+    3300002: Cor Conal
+    3300004: Cor Da
+    3300006: Cor Der
+    3300008: Cor der
+    3300010: Cor der 1
+    3300012: Cor der 2
+    3300014: Cor der.001
+    3300016: Cor der.002
+    3300018: Cor der.003
+    3300020: Cor der.004
+    3300022: Cor der.005
+    3300024: Cor der.006
+    3300026: Cor der.007
+    3300028: Cor der.008
+    3300030: Cor Izq
+    3300032: Cor izq
+    3300034: Cor izq.001
+    3300036: Cor izq.002
+    3300038: Cor izq.003
+    3300040: Cor izq.004
+    3300042: Cor izq.005
+    3300044: Cor izq.006
+    3300046: Cor izq.007
+    3300048: Cor izq.008
+    3300050: Cor izq.009
+    3300052: Corazon
+    3300054: Corazon doble cor dcha
+    3300056: Corazon normal
+    3300058: Corazon.001
+    3300060: Corazon.002
+    3300062: Corazon.003
+    3300064: Corazon.004
+    3300066: Corazon.005
+    3300068: Corazon.006
+    3300070: Corazon.007
+    3300072: Corazon.008
+    3300074: Corazon.009
+    3300076: Corazon.010
+    4300000: Cor der
+    4300002: Cor izq
+    4300004: Corazon
+    4300006: Cor izq.009
+    4300008: Cor Conal
+    4300010: Cor der.008
+    4300012: Cor der.007
+    4300014: Cor izq.007
+    4300016: Cor der.006
+    4300018: Cor izq.008
+    4300020: Cor der.005
+    4300022: Cor izq.005
+    4300024: Cor der.004
+    4300026: Cor izq.004
+    4300028: Corazon.007
+    4300030: Corazon.004
+    4300032: Cor der.003
+    4300034: Cor izq.003
+    4300036: Corazon.002
+    4300038: Cor Izq
+    4300040: Cor Da
+    4300042: Cor Der
+    4300044: Corazon.003
+    4300046: Cor der.002
+    4300048: Cor izq.002
+    4300050: Corazon.001
+    4300052: Cor
+    4300054: Corazon doble cor dcha
+    4300056: Cor der 1
+    4300058: Cor izq.006
+    4300060: Cor der 2
+    4300062: Cor der.001
+    4300064: Corazon normal
+    4300066: Cor izq.001
+    4300068: Corazon.006
+    4300070: Corazon.005
+    4300072: Corazon.008
+    4300074: Corazon.009
+    4300076: Corazon.010
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 30
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
